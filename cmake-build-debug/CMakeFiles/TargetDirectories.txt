@@ -1,0 +1,3 @@
+C:/Users/ELECTROHARD/Desktop/Clion/practicando/cmake-build-debug/CMakeFiles/practicando.dir
+C:/Users/ELECTROHARD/Desktop/Clion/practicando/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ELECTROHARD/Desktop/Clion/practicando/cmake-build-debug/CMakeFiles/rebuild_cache.dir
